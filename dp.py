@@ -3,3 +3,5 @@ mongo
 mysql
 mariadb
 mongodb
+tags
+local
